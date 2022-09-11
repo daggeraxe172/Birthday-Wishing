@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Birthday Greeting</string>
+    <string name="enter_your_name">Enter Name</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="broni">Broni...</string>
+    <string name="happy_birthday_broni">Happy Birthday Broni</string>
+    <string name="celebration_image">Celebration Image</string>
+    <string name="minion_celebrate_birthday">Minion Celebrate Birthday</string>
+    <string name="sharebtntext">share</string>
+</resources>
